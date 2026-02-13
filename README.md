@@ -107,7 +107,7 @@ npm test -- coffee
 npm test -- parking
 ```
 
-### Step 5 — Fix and repeat
+### Step 5 — Fix and repeat-
 
 If tests fail, read the error messages — they tell you exactly what was expected vs. what your function returned. Fix your code and run the test again.
 
